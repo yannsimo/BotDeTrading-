@@ -1,0 +1,22 @@
+ <!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Résultats d'Optimisation</title>
+    <style>
+        /* Ajoutez ici le même style que dans votre template de résultats */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Résultats d'Optimisation pour la Stratégie {{ strategy }}</h1>
+        <p>Paramètres optimaux : {{ optimal_params }}</p>
+        <p>Meilleure performance : {{ best_performance }}</p>
+        {% if optimization_plot %}
+            <img src="data:image/png;base64,{{ optimization_plot }}" alt="Optimization Results">
+        {% endif %}
+        <a href="{% url 'backtest' %}">Retour au formulaire</a>
+    </div>
+</body>
+</html>

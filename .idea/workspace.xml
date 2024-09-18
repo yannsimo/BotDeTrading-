@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14c129ed-b612-4f18-98f4-dd96394cc05e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BotDeTrading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/data_providers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/data_providers/oanda_provider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/strategies/MeanReversion_backtester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/strategies/Mom_backtester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/strategies/Sma_backtester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/strategies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/strategies/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/strategies/con_backtester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/templates/backtester/backtest_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/templates/backtester/optimization_results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/templates/backtester/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/BacktestApp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BotDeTrading/oanda.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2mDotJUc2AgbJUhtKA74yPxVLfi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/PC/PycharmProjects/tests/Trading/BotDeTrading/BotDeTrading"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\PycharmProjects\tests\Trading\BotDeTrading\BotDeTrading" />
+      <recent name="C:\Users\PC\PycharmProjects\tests\Trading\BotDeTrading\BotDeTrading\BacktestApp" />
+      <recent name="C:\Users\PC\PycharmProjects\tests\Trading\BotDeTrading\BotDeTrading\TradingApp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\PycharmProjects\tests\Trading\BotDeTrading\BotDeTrading\BacktestApp" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14c129ed-b612-4f18-98f4-dd96394cc05e" name="Changes" comment="" />
+      <created>1726620721067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726620721067</updated>
+    </task>
+    <servers />
+  </component>
+</project>
